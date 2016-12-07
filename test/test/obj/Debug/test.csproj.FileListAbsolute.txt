@@ -1,0 +1,6 @@
+E:\Nikita\Documents\SharpDevelop Projects\test\test\bin\Debug\test.exe.config
+E:\Nikita\Documents\SharpDevelop Projects\test\test\bin\Debug\test.exe
+E:\Nikita\Documents\SharpDevelop Projects\test\test\bin\Debug\test.pdb
+E:\Nikita\Documents\SharpDevelop Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+E:\Nikita\Documents\SharpDevelop Projects\test\test\obj\Debug\test.exe
+E:\Nikita\Documents\SharpDevelop Projects\test\test\obj\Debug\test.pdb
