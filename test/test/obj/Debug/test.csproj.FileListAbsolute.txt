@@ -4,3 +4,9 @@ E:\Nikita\Documents\SharpDevelop Projects\test\test\bin\Debug\test.pdb
 E:\Nikita\Documents\SharpDevelop Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
 E:\Nikita\Documents\SharpDevelop Projects\test\test\obj\Debug\test.exe
 E:\Nikita\Documents\SharpDevelop Projects\test\test\obj\Debug\test.pdb
+C:\Users\User\Documents\GitHub\test\test\test\bin\Debug\test.exe.config
+C:\Users\User\Documents\GitHub\test\test\test\obj\Debug\test.exe
+C:\Users\User\Documents\GitHub\test\test\test\obj\Debug\test.pdb
+C:\Users\User\Documents\GitHub\test\test\test\bin\Debug\test.exe
+C:\Users\User\Documents\GitHub\test\test\test\bin\Debug\test.pdb
+C:\Users\User\Documents\GitHub\test\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
